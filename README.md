@@ -1,9 +1,3 @@
-# Netsapiens Office Manager's Portal Dropdown Phone Number Sorter
-
-
-When applied this script will sort the phone numbers in ascending order on Ofice Manager's Portal dropdown boxes like: User - Caller ID, Emergency Caller ID, Call Queue - Phone Number, Conference Bridge - Direct Phone Number, Domain - DomainCallidNmbr
-
-
 # Netsapiens Office Manager - Dropdown Phone Number Sorter
 
 This JavaScript utility automatically sorts phone numbers in ascending order within various dropdown fields on the Netsapiens OMP. It ensures a more organized and user-friendly experience for administrators managing Caller IDs and phone number selections.
